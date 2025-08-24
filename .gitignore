@@ -30,6 +30,8 @@ macos/Flutter/
 google-services.json
 GoogleService-Info.plist
 firebase_options.dart
+firebase.json
 
 # Firebase service account key (never commit)
 lib/credentials/firebase_service.json
+
