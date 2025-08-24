@@ -1,0 +1,35 @@
+# Flutter related
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Windows build output
+windows/flutter/ephemeral/
+windows/runner/ephemeral/
+windows/build/
+
+# VS Code settings
+.vscode/
+
+# Android/iOS/macOS
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Flutter/
+macos/Flutter/
+
+# System files
+*.log
+*.tmp
+*.lock
+
+# Secrets
+.env
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# Firebase service account key (never commit)
+lib/credentials/firebase_service.json
